@@ -1,2 +1,5 @@
 # noovi
- Noovi is a company that operates in the construction of websites. Focused on Web Design, SEO and Web Development, she cares about her company's presence on the Web.
+Noovi é uma empresa que atua no desenvolvimento de Websites. Focada no Web Design, SEO e Desenvolvimento Web, ela quer que sua empresa esteja presente na Web.
+
+#Ver projeto
+Você pode ver o site clicando neste link: https://noovi.vercel.app/
